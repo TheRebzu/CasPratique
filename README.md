@@ -5,15 +5,15 @@ Par groupes de 3 :
 - Il ajoute les deux autres en tant que collaborateurs
 - Chacun fait une copie en local du repo (init + remote add + pull ou clone)
 - Chaque élève crée une branche à son nom
-- Élève 1 :
+- Amine :
   - Créer un fichier index.html avec du contenu HTML
   - Publier la branche sur le repo distant
-- Élève 2 :
+- Celian :
   - Créer un fichier index.html avec du contenu HTML différent de l'élève 1
   - Publier la branche sur le repo distant
-- Élève 3 :
+- Walid :
   - Faire une modification dans le Readme.md
-  - Sauvegarder la modification dans l’historique
+  - Sauvegarder la modification dans l’historique 
   - Publier la branche sur le repo distant
 - Pour chacun des 3 : télécharger les deux autres branches de vos collaborateurs
 - Mettre en place une pull request entre la branche de l'élève 1 et de l'élève deux
